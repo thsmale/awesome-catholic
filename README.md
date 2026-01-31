@@ -102,6 +102,8 @@ A curated list of Catholic projects, libraries, software and websites.
 - [Catholic Resources](https://catholic-resources.org/) - contains a variety of materials, mostly related to biblical and liturgical studies,
 intended for scholars, teachers, students, pastors, believers, seekers, and others interested in the Catholic faith.
 - [Siti Cattolici](https://www.siticattolici.it/) - contains information about Catholic websites in Italy
+- [bibdle](https://bibdle.com/) - A daily bible game.
+- [Lo-fi Byzantine Music Radio](https://orthodox.cafe/) - Byzantine music soundscape to relax, study, or pray to.
 
 ## Command Line
 
